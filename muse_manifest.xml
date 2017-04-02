@@ -1,0 +1,43 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="benengebrecht.com" resolutions="1x" timestamp="1491132962629">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_b-master.css" crc="100306244" ref="education:projects:resume"/>
+    <file name="master_a-master.css" crc="517219966" ref="index"/>
+    <file name="education.css" crc="4181514019" ref="education"/>
+    <file name="projects.css" crc="3949132166" ref="projects"/>
+    <file name="index.css" crc="3964445778" ref="index"/>
+    <file name="resume.css" crc="206691442" ref="resume"/>
+  </folder>
+  <folder name="fonts">
+    <file name="isocpeur-webfont.woff" crc="3812837028"/>
+    <file name="isocpeur-webfont.eot" crc="4248210164"/>
+    <file name="isocpeur-webfont.svg" crc="3812458659"/>
+  </folder>
+  <folder name="assets">
+    <file name="benjaminengebrecht-resume.pdf" crc="4101834085" seo="true" mt="1487520818000"/>
+    <file name="benjaminengebrecht-ethicsessay.pdf" crc="334668366" seo="true" mt="1490593189000"/>
+    <file name="benjaminengebrecht-cumulativereflection.pdf" crc="317680124" seo="true" mt="1491126395000"/>
+    <file name="benjaminengebrecht-generaleducationreflection.pdf" crc="3834818224" seo="true" mt="1490597915000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:projects:resume:education"/>
+    <file name="museutils.js" crc="4148063285" ref="index:projects:resume:education"/>
+    <file name="whatinput.js" crc="86476730" ref="index:projects:resume:education"/>
+    <file name="museconfig.js" crc="4179431180" ref="index:projects:resume:education"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index:projects:resume:education"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:projects:resume:education"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:projects:resume:education"/>
+    <file name="require.js" crc="4159430777" ref="index:projects:resume:education"/>
+  </folder>
+  <folder name="images">
+    <file name="circuitpatt2.jpg" crc="238684092" ref="index:projects:resume:education"/>
+    <file name="sdesigndiag.jpg" crc="3878548870" seo="true" ref="projects"/>
+    <file name="mipspipelined.png" crc="83161280" seo="true" ref="projects"/>
+    <file name="midicircuit.jpg" crc="4195357945" seo="true" ref="projects"/>
+    <file name="icon.jpg" crc="69783733" seo="true" ref="projects:resume:education"/>
+  </folder>
+  <file name="index.html" crc="392450767" seo="true" mt="1491132951781" redirect="true"/>
+  <file name="projects.html" crc="420837309" seo="true" mt="1491132884700" redirect="true"/>
+  <file name="resume.html" crc="393495476" seo="true" mt="1491132884700" redirect="true"/>
+  <file name="education.html" crc="173322216" seo="true" mt="1491132884700" redirect="true"/>
+</manifest>
